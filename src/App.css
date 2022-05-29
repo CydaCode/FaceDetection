@@ -1,0 +1,21 @@
+
+.part {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left:0px;
+  bottom: 0;
+  z-index: 1;
+
+  
+}
+
+.move {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left:0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
